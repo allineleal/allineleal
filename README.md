@@ -1,5 +1,6 @@
 # Hi 👋, I'm Alline Leal!
 
+- 👩🏻‍🔬 Computer scientist
 - 👩‍💻 Software developer
 - 🛠️ I’m currently work with Flutter and Python
 
