@@ -11,8 +11,8 @@
     </div>
 <div >
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allineleal&show_icons=true&theme=merko&include_all_commits=true&count_private=true&title_color=FFF188&icon_color=FFF188&text_color=FFBF89&bg_color=484848"/>
-     <img height="180em" src="https://media.discordapp.net/attachments/920317221316747296/958897058717245470/download20220303215927.png"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=allineleal&show_icons=true&theme=merko&include_all_commits=true&count_private=true&title_color=FFF188&icon_color=FFF188&text_color=FFBF89&bg_color=484848&hide=contribs,prs"/>
+     <img height="150" src="https://media.discordapp.net/attachments/920317221316747296/958897058717245470/download20220303215927.png"/>
 </div>
  
  ## 📂 Skills
