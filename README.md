@@ -2,7 +2,7 @@
 
 - 👩🏻‍🔬 Computer scientist
 - 👩‍💻 Software developer
-- 🛠️ I’m currently work with Flutter and Python
+- 🛠️ I’m currently work with Flutter, Python and Mongodb
 
 ## 📂 Contacts
 [![instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allineleall/)
