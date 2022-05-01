@@ -1,7 +1,7 @@
 # Hi 👋, I'm Alline Leal!
 
-- 👩🏻‍🔬 Computer scientist
-- 👩‍💻 Software developer
+- 👩🏻‍🔬 Computer Scientist
+- 👩‍💻 Software Developer at DevHops
 - 🛠️ I’m currently work with Flutter, Python and Mongodb
 
 ## 📂 Contacts
