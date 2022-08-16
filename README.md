@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alline Leal!
 
-- 👩🏻‍🔬 Computer Scientist
+- 👩🏻‍🔬 Computer Scientist (UTFPR)
 - 👩‍💻 Software Developer at DevHops
 - 🛠️ I’m currently work with Flutter
 
