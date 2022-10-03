@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alline Leal!
+# Hi 👋, I'm Alline Leal!!
 
 - 👩🏻‍🔬 Computer Scientist (UTFPR)
 - 👩‍💻 Software Developer at DevHops
