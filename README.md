@@ -2,7 +2,7 @@
 
 - 👩🏻‍🔬 Computer Scientist (UTFPR)
 - 👩‍💻 Software Developer at DevHops
-- 🛠️ I’m currently work with Flutter
+- 🛠️ I’m currently working with Flutter
 
 ## 📂 Contacts
 [![instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allineleall/)
