@@ -36,6 +36,10 @@
 </div>
   
   ##
+  ![Profile views](https://komarev.com/ghpvc/?username=allineleal&color=ff69b4)
+
+
+
   
 <!--![Snake animation](https://github.com/allineleal/allineleal/blob/output/github-contribution-grid-snake.svg)-->
 
